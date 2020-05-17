@@ -5,7 +5,8 @@ function main() {
   var lineHeight = 30;
   var lineColor = '#efefef';
   var textColor = '#c8c8c8';
-  var textFont = '75px ElementarzDwa';
+  var fontURL = '../fonts/Elementarz2.ttf';
+  var textFont = '75px schoolFont';
   var fileName = '../text.txt'
 
   var c = document.getElementById("myBoard");
