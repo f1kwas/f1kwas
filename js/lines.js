@@ -1,10 +1,10 @@
 function main() {
 
   let pageWidth = 1680;
-  let pageHeight = 2376;
+  let pageHeight = 2676;
   let lineHeight = 30;
   let lineColor = '#a5f5f5';
-  let textColor = '#b8b8b8';
+  let textColor = '#a8a8a8';
   let textFont = '75px schoolFont';
   let texts = [];
 
